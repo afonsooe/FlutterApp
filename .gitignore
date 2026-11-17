@@ -1,3 +1,9 @@
 # https://dart.dev/tools/private-files
 # Created by `dart pub`
 .dart_tool/
+
+# Firebase
+firebase.json
+.firebase
+lib/firebase_options.dart
+android/app/google-services.json
